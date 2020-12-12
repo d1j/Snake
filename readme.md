@@ -8,3 +8,7 @@
 ![](https://github.com/d1j/Snake/blob/master/screenshots/1.png?raw=true) ![](https://github.com/d1j/Snake/blob/master/screenshots/2.png?raw=true) ![](https://github.com/d1j/Snake/blob/master/screenshots/3.png?raw=true)
 ![](https://github.com/d1j/Snake/blob/master/screenshots/4.png?raw=true)
 ![](https://github.com/d1j/Snake/blob/master/screenshots/5.png?raw=true)
+
+## Compilation
+
+`g++ -o main Source.cpp funkcijos.cpp Nustatymai.cpp variklis.cpp`
